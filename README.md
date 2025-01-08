@@ -1,1 +1,1 @@
-# 30 Day DevOps Challenge ♾️🔥🏀 - NBA Game Day Notifications / Sports Alerts System
+# NBA Game Day Notifications / Sports Alerts System - 30 Day DevOps Challenge ♾️🔥🏀
