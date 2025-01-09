@@ -1,3 +1,3 @@
-# NBA Game Day Notifications / Sports Alerts System - 30 Day DevOps Challenge ♾️🔥🏀
+# NBA Game Day Alerts: Real-Time Sports Notification System Powered by AWS - 30 Day DevOps Challenge ♾️🔥🏀
 
 ## **Technical Architecture**
